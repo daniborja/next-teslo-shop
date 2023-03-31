@@ -1,0 +1,49 @@
+{
+  "name": "teslo-shop",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@hookform/resolvers": "^2.9.11",
+    "@mui/icons-material": "^5.11.11",
+    "@mui/material": "^5.11.12",
+    "@mui/x-data-grid": "^6.0.1",
+    "@paypal/react-paypal-js": "^7.8.2",
+    "axios": "^1.3.4",
+    "bcrypt": "^5.1.0",
+    "cloudinary": "^1.35.0",
+    "formidable": "^2.1.1",
+    "jose": "^4.13.1",
+    "js-cookie": "^3.0.1",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.1",
+    "next": "13.2.4",
+    "next-auth": "^4.20.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.43.6",
+    "react-slideshow-image": "^4.2.1",
+    "sharp": "^0.31.3",
+    "swr": "^2.1.0",
+    "yup": "^1.0.2"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^5.0.0",
+    "@types/formidable": "^2.0.5",
+    "@types/js-cookie": "^3.0.3",
+    "@types/jsonwebtoken": "^9.0.1",
+    "@types/node": "18.15.0",
+    "@types/react": "18.0.28",
+    "@types/react-dom": "18.0.11",
+    "eslint": "8.36.0",
+    "eslint-config-next": "13.2.4",
+    "typescript": "4.9.5"
+  }
+}
